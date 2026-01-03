@@ -1,0 +1,22 @@
+.cart-container {
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 300px;
+  margin: auto;
+}
+
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.cart-item p {
+  margin: 0;
+}
+
+.cart-total {
+  font-weight: bold;
+  margin-top: 10px;
+}
